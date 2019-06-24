@@ -1,2 +1,2 @@
 # secondset-assignment1
-https://github.com/KETHIREDDYNAVYA/secondset-assignment1
+https://kethireddynavya.github.io/secondset-assignment1/
